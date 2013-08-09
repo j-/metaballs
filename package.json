@@ -1,0 +1,14 @@
+{
+	"name": "metaballs",
+	"version": "0.0.1",
+	"description": "A metaballs visualization",
+	"author": {
+		"name": "Jamie Hoeks",
+		"email": "j@skeoh.com"
+	},
+	"main": "./index.js",
+	"scripts": {
+		"docs": "jsdoc -u docs/tutorials -d docs/out"
+	},
+	"license": "MIT"
+}
