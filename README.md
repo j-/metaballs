@@ -2,6 +2,10 @@
 
 A metaballs visualization.
 
+## Demo
+
+http://j-.github.io/metaballs
+
 ## Documentation
 
 The source for this documentation utilizes [JSDoc 3](http://usejsdoc.org/) (on [GitHub](https://github.com/jsdoc3/jsdoc)).
